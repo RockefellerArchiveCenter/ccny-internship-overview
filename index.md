@@ -2,15 +2,15 @@
 layout: docs
 title:  "Internship Program Overview"
 ---
-The Rockefeller Archive Center and the City College of New York partner to run an internship program for City College undergraduates.
+The Rockefeller Archive Center and instutions from the City University of New York partner to run an internship program for undergraduates.
 
 ## History of the Internship Program 
 
-The RAC-CCNY Internship Program is designed to introduce undergraduates to the archival profession and to empower diverse voices in the field. We strive to make our interns know their perspectives are valued and that they play an important role as staff members. 
+The RAC-CUNY Internship Program is designed to introduce undergraduates to the archival profession and to empower diverse voices in the field. We strive to make our interns know their perspectives are valued and that they play an important role as staff members. 
 
-The Program began in 2018. Partnering with the City College of New York gives the RAC the opportunity to work with talented and inspiring students who are interested in exploring the archival profession as a potential career path. Each semester, two interns are selected and immersed in a professional work environment as paid staff members. 
+The Program began in 2018 with its first partner, the City College of New York. The Program gives the RAC the opportunity to work with talented and inspiring students who are interested in learning more about the information science field and exploring the archival profession as a potential career path. Each semester, interns are selected and immersed in a professional work environment as paid staff members. 
 
-The program can be implemented in remote, in-person, or hybrid work environments and is offered during the fall, spring, and summer semesters. Students are expected to work 12-15 hours per week. Interested applicants submit a cover letter and resume and are invited to be interviewed by a panel of staff from the RAC and CCNY.
+The program can be implemented in remote, in-person, or hybrid work environments and is offered during the fall and spring emesters. Students are expected to work 12-15 hours per week. Interested applicants submit a cover letter and resume and are invited to be interviewed by a panel of staff from the RAC and participating CUNY instiutions.
 
 ## Purpose
 
@@ -54,13 +54,13 @@ Examples of projects interns are responsible for include:
 
 The program is shaped by five phases to build a strong understanding of the day-to-day workings of an archive, set clear project goals, develop working relationships, support professional skill development, and make space for reflection in a scaffolded manner.
 
-The aim of the five phases is to provide a well-paced, transparent, and structured experience for the interns.  Following their internship, the interns join the RAC-CCNY Alumni Network, which was created to encourage continued engagement and support among the current and former interns and the archival community.
+The aim of the five phases is to provide a well-paced, transparent, and structured experience for the interns.  Following their internship, the interns join the RAC-CUNY Alumni Network, which was created to encourage continued engagement and support among the current and former interns and the archival community.
 
 ### Phase 1: Internship Prep (2 weeks)
 
 The internship supervisor begins communication with the intern and prepares for their first working day.
 
-*	The RAC supervisor begins communication with the intern and with the CCNY partner work with interns to determine a work schedule.
+*	The RAC supervisor begins communication with the intern and CUNY partners work with interns to determine a work schedule.
 *	An announcement is made to staff introducing the intern.
 *	Staff meet-and-greets are scheduled so that the intern can learn about the work of each archival team.
 *	Intern and supervisor weekly check-ins are scheduled.
@@ -95,13 +95,12 @@ When the third phase begins, the interns' routines have been established and the
 
 The interns wrap up assigned projects, share their experiences, and reflect on how the internship has prepared them for future professional opportunities.
 *	Interns work on reflection blog posts that are published on Bits & Bytes, the Rockefeller Archive Center’s blog. 
-*	Interns meet with the Director of Archives and Director of Research and Education to debrief and give feedback about their experiences.
-*	RAC supervisor meets with CCNY partner to debrief. 
+*	RAC supervisor meets with CUNY partners to debrief. 
 *	Supervisor fills out college credit documentation and provides professional association contacts and suggestions. 
 *	Supervisor writes letters of references for interns.
 
 
 ### Phase 5: Internship Reset (1 week)
-Immediately following the current internship cycle, the supervisor wraps up any necessary technical requirements, prepares guidelines for the next cycle, and communicates with CCNY about publicizing and scheduling the next round of interviews.  
+Immediately following the current internship cycle, the supervisor wraps up any necessary technical requirements, prepares guidelines for the next cycle, and communicates with partnering CUNY institutions about publicizing and scheduling the next round of interviews.  
 
 
