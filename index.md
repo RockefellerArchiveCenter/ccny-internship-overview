@@ -2,7 +2,7 @@
 layout: docs
 title:  "Internship Program Overview"
 ---
-The Rockefeller Archive Center and instutions from the City University of New York partner to run an internship program for undergraduates.
+The Rockefeller Archive Center and institutions from the City University of New York partner to run an internship program for undergraduates.
 
 ## History of the Internship Program 
 
