@@ -1,6 +1,6 @@
 public: true
 type: "docs"
 title: "Internship Program Overview"
-description: "A Descripiton of the RAC-CCNY Internship Program."
+description: "A Descripiton of the RAC-CUNY Internship Program."
 pages:
   - ["Internship Program Overview", "index"]
